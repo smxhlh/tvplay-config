@@ -14,3 +14,7 @@ tvplay项目 <https://github.com/pharaoh2012/tvplay> 的配置网址
 
 - 请不要在config.txt中添加空行。
 - 请不要在config.txt中添加注释。
+
+## 解析今日说法播放地址的示例
+
+参见 [/jrsf/index.html](./jrsf/index.html)
