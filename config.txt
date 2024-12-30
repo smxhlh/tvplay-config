@@ -18,6 +18,7 @@ https://tv.cctv.com/live/cctv17/m/
 https://tvbox-config.pharaoh.cf/jrsf/index.html#0
 https://tvbox-config.pharaoh.cf/jrsf/index.html#1
 https://tvbox-config.pharaoh.cf/jrsf/index.html#2
+https://tvbox-config.pharaoh.cf/jrsf/index.html#3
 https://tvbox-config.pharaoh.cf/jrsf/index.html#4
 https://tvbox-config.pharaoh.cf/jrsf/index.html#5
 https://tvbox-config.pharaoh.cf/jrsf/index.html#6
@@ -31,4 +32,3 @@ https://tvbox-config.pharaoh.cf/jrsf/index.html#13
 https://tvbox-config.pharaoh.cf/jrsf/index.html#14
 https://tvbox-config.pharaoh.cf/jrsf/index.html#15
 https://tvbox-config.pharaoh.cf/jrsf/index.html#16
-https://tvbox-config.pharaoh.cf/jrsf/index.html#17
